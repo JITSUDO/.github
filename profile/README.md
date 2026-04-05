@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://jitsudo.io"><img src="https://forthebadge.com/api/badges/generate?primaryLabel=%20&primaryBGColor=%23051121&secondaryLabel=jitsudo.io&secondaryBGColor=%23051121&secondaryTextColor=%2314B488&secondaryIcon=googlechrome&secondaryIconPosition=left&secondaryIconColor=%2314B488" alt="Website" /></a>
-  <a href="https://docs.jitsudo.io"><img src="https://forthebadge.com/api/badges/generate?primaryLabel=%20&primaryBGColor=%23051121&secondaryLabel=docs.jitsudo.io&secondaryBGColor=%23051121&secondaryTextColor=%2314B488&secondaryIcon=readthedocs&secondaryIconPosition=left&secondaryIconColor=%2314B488" alt="Documentation" /></a>
+  <a href="https://jitsudo.io"><img src="https://forthebadge.com/api/badges/generate?primaryLabel=%20&primaryBGColor=%23051121&secondaryLabel=jitsudo.io&secondaryBGColor=%23051121&secondaryTextColor=%2314B488&secondaryIcon=googlechrome&secondaryIconPosition=left&secondaryIconColor=%23FFFFFF" alt="Website" /></a>
+  <a href="https://docs.jitsudo.io"><img src="https://forthebadge.com/api/badges/generate?primaryLabel=%20&primaryBGColor=%23051121&secondaryLabel=docs.jitsudo.io&secondaryBGColor=%23051121&secondaryTextColor=%2314B488&secondaryIcon=readthedocs&secondaryIconPosition=left&secondaryIconColor=%23FFFFFF" alt="Documentation" /></a>
 </p>
 
 ---
