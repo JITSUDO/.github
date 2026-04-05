@@ -14,8 +14,8 @@
 
 ### Repositories
 
-| Repo | Description |
-|------|-------------|
-| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend |
-| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) |
-| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources |
+| Repo | Description | | |
+|------|-------------|---|---|
+| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://flat.badgen.net/github/language/JITSUDO/jitsudo) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/jitsudo) |
+| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://flat.badgen.net/github/language/JITSUDO/jitsudo-docs) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/jitsudo-docs) |
+| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources | ![Language](https://flat.badgen.net/github/language/JITSUDO/terraform-provider-jitsudo) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/terraform-provider-jitsudo) |
