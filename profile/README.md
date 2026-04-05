@@ -40,7 +40,7 @@ JITSudo eliminates standing privileges in AWS. Instead of granting permanent ele
 
 ### Repositories
 
-| Repo | Description | | |
+| Repo | Description | Language | Issues |
 |------|-------------|---|---|
 | [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo?style=for-the-badge&label=issues) |
 | [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo-docs?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo-docs?style=for-the-badge&label=issues) |
