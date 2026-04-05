@@ -42,9 +42,9 @@ JITSudo eliminates standing privileges in AWS. Instead of granting permanent ele
 
 | Repo | Description | | |
 |------|-------------|---|---|
-| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://flat.badgen.net/github/language/JITSUDO/jitsudo) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/jitsudo) |
-| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://flat.badgen.net/github/language/JITSUDO/jitsudo-docs) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/jitsudo-docs) |
-| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources | ![Language](https://flat.badgen.net/github/language/JITSUDO/terraform-provider-jitsudo) | ![Issues](https://flat.badgen.net/github/open-issues/JITSUDO/terraform-provider-jitsudo) |
+| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo?style=flat-square&label=issues) |
+| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo-docs?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo-docs?style=flat-square&label=issues) |
+| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources | ![Language](https://img.shields.io/github/languages/top/JITSUDO/terraform-provider-jitsudo?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/terraform-provider-jitsudo?style=flat-square&label=issues) |
 
 ---
 
