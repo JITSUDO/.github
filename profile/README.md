@@ -42,9 +42,9 @@ JITSudo eliminates standing privileges in AWS. Instead of granting permanent ele
 
 | Repo | Description | | |
 |------|-------------|---|---|
-| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo?style=for-the-badge&label=issues) |
-| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo-docs?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo-docs?style=for-the-badge&label=issues) |
-| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources | ![Language](https://img.shields.io/github/languages/top/JITSUDO/terraform-provider-jitsudo?style=flat-square) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/terraform-provider-jitsudo?style=for-the-badge&label=issues) |
+| [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo?style=for-the-badge&label=issues) |
+| [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) | ![Language](https://img.shields.io/github/languages/top/JITSUDO/jitsudo-docs?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/jitsudo-docs?style=for-the-badge&label=issues) |
+| [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources | ![Language](https://img.shields.io/github/languages/top/JITSUDO/terraform-provider-jitsudo?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues-raw/JITSUDO/terraform-provider-jitsudo?style=for-the-badge&label=issues) |
 
 ---
 
