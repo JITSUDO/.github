@@ -3,9 +3,14 @@
 </p>
 
 <p align="center">
-  <strong>Just-in-time access management for AWS.</strong>
+  <strong>Just-in-time access management for AWS.</strong><br/>
+  Request, approve, and provision temporary elevated access with policy-driven authorization, full audit trails, and automatic expiration.
 </p>
- Request, approve, and provision temporary elevated access with policy-driven authorization, full audit trails, and automatic expiration.
+
+<p align="center">
+  <a href="https://jitsudo.io"><img src="https://flat.badgen.net/badge/Website/jitsudo.io/14B488?icon=https://raw.githubusercontent.com/JITSUDO/.github/main/profile/jitsudo-logomark-brand.svg&labelColor=051121" alt="Website" /></a>
+  <a href="https://docs.jitsudo.io"><img src="https://flat.badgen.net/badge/Docs/docs.jitsudo.io/14B488?icon=https://raw.githubusercontent.com/JITSUDO/.github/main/profile/jitsudo-logomark-brand.svg&labelColor=051121" alt="Documentation" /></a>
+</p>
 
 ### Repositories
 
@@ -14,8 +19,3 @@
 | [jitsudo](https://github.com/JITSUDO/jitsudo) | Core platform — API server, worker, frontend |
 | [jitsudo-docs](https://github.com/JITSUDO/jitsudo-docs) | Documentation site ([docs.jitsudo.io](https://docs.jitsudo.io)) |
 | [terraform-provider-jitsudo](https://github.com/JITSUDO/terraform-provider-jitsudo) | Terraform provider for managing JITSudo resources |
-
-### Links
-
-- [Documentation](https://docs.jitsudo.io)
-- [Website](https://jitsudo.io)
