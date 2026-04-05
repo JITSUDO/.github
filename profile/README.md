@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://jitsudo.io"><img src="https://img.shields.io/badge/Website-jitsudo.io-051121?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=14B488" alt="Website" /></a>
-  <a href="https://docs.jitsudo.io"><img src="https://img.shields.io/badge/Docs-docs.jitsudo.io-051121?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=14B488" alt="Documentation" /></a>
+  <a href="https://jitsudo.io"><img src="https://img.shields.io/badge/jitsudo.io-051121?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D9070&color=051121" alt="Website" /></a>
+  <a href="https://docs.jitsudo.io"><img src="https://img.shields.io/badge/docs.jitsudo.io-051121?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D9070&color=051121" alt="Documentation" /></a>
 </p>
 
 ---
