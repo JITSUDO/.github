@@ -9,7 +9,16 @@
     {
       "description": "Disable all routine dependency updates",
       "matchPackageNames": ["*"],
-      "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
+      "matchUpdateTypes": [
+        "major",
+        "minor",
+        "patch",
+        "pin",
+        "digest",
+        "lockFileMaintenance",
+        "rollback",
+        "bump"
+      ],
       "enabled": false
     }
   ],
