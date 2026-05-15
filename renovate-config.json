@@ -1,0 +1,21 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "schedule": ["after 8am on Monday"],
+  "timezone": "America/New_York",
+  "dependencyDashboard": true,
+  "prConcurrentLimit": 3,
+  "packageRules": [
+    {
+      "description": "Disable all routine dependency updates",
+      "matchPackageNames": ["*"],
+      "enabled": false
+    }
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "automerge": true,
+    "labels": ["security"]
+  },
+  "osvVulnerabilityAlerts": true
+}
