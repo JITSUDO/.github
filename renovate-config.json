@@ -9,6 +9,7 @@
     {
       "description": "Disable all routine dependency updates",
       "matchPackageNames": ["*"],
+      "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
       "enabled": false
     }
   ],
